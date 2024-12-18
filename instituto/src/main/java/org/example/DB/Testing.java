@@ -10,7 +10,7 @@ public class Testing {
     String port = "3306";
     String jbdc = "jdbc:mysql://localhost:" +port+ "/" +db;
     String dbUser = "root";
-    String dbPassword = "Nuki@2020";
+    String dbPassword = "root";
 
 
     public void test(){
